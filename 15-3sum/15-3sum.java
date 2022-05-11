@@ -12,31 +12,22 @@ class Solution {
         for (int i = 0; i < n && nums[i] <= 0; ++i) {
 
             if (i == 0 || nums[i - 1] != nums[i]) {
-                left = i + 1;
-                right = n - 1;
-
-                while (left < right) {
-                    int sum = nums[left] + nums[right] + nums[i];
-                    if (sum == 0) {
-
-                        List < Integer > list = new ArrayList < Integer > ();
-                        list.add(nums[left++]);
-                        list.add(nums[i]);
-                        list.add(nums[right--]);
-
-                        ans.add(list);
-
-                        //when we have duplicates**
-                        while (left < right && nums[left] == nums[left - 1])
-                            ++left;
-
-                    } else if (sum < 0) {
-
-                        ++left;
-                    } else {
-
-                        --right;
+                
+                Set<Integer> store = new HashSet<Integer>();//storage for complement 
+                
+                for(int j=i+1; j<n; j++){
+                    
+                    int complement = -nums[i]-nums[j];
+                    
+                    if(store.contains(complement)){
+                        
+                        ans.add(Arrays.asList(nums[i],nums[j],complement));
+                        
+                        while(j+1 < n && nums[j]==nums[j+1])
+                            ++j;
+                        
                     }
+                    store.add(nums[j]);
                 }
             }
         }
