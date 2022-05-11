@@ -15,7 +15,7 @@ class Solution {
                 
                 Set<Integer> store = new HashSet<Integer>();//storage for complement 
                 
-                for(int j=i+1; j<n; j++){
+                for(int j=i+1; j<n; ++j){
                     
                     int complement = -nums[i]-nums[j];
                     
@@ -23,11 +23,12 @@ class Solution {
                         
                         ans.add(Arrays.asList(nums[i],nums[j],complement));
                         
-                        while(j+1 < n && nums[j]==nums[j+1])
+                        while(j+1<n && nums[j]==nums[j+1])
                             ++j;
                         
                     }
-                    store.add(nums[j]);
+                    store.add(nums[j]);//add to the hashset to compare the complement later
+                    
                 }
             }
         }
