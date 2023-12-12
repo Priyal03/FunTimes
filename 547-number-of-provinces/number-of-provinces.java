@@ -1,7 +1,7 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
         //assuming all nodes are disjoined in the begining. 
-        int n = isConnected.length;
+        int n = isConnected[0].length;
         UnionFind uf = new UnionFind(n);
         
         for(int i=0;i<n;i++){
