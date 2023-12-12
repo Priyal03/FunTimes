@@ -1,12 +1,12 @@
 class Solution {
     public int findCircleNum(int[][] isConnected) {
-        int n = isConnected.length;//assuming all nodes are disjoined in the begining.
-
+        //assuming all nodes are disjoined in the begining. 
+        int n = isConnected.length;
         UnionFind uf = new UnionFind(n);
         
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
-                if(isConnected[i][j]==1 && uf.find(i) != uf.find(j)){
+                if(isConnected[i][j]==1 && uf.findParent(i) != uf.findParent(j)){
                     uf.union(i,j);
                 }
             }
@@ -29,16 +29,16 @@ class UnionFind{
         }
     }
 
-    public int find(int x){
+    public int findParent(int x){
         if(parent[x]!=x){
-            parent[x]=find(parent[x]);
+            parent[x]=findParent(parent[x]);
         }
         return parent[x];
     }
 
     public void union(int x, int y){
-        int xroot = find(x);
-        int yroot = find(y);
+        int xroot = findParent(x);
+        int yroot = findParent(y);
 
         if(xroot == yroot)
             return;
