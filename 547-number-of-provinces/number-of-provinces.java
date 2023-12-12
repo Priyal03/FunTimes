@@ -3,20 +3,16 @@ class Solution {
         int n = isConnected.length;//assuming all nodes are disjoined in the begining.
 
         UnionFind uf = new UnionFind(n);
-        int totalDisjointSet = n;
-
+        
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
                 if(isConnected[i][j]==1 && uf.find(i) != uf.find(j)){
-                    totalDisjointSet--;
                     uf.union(i,j);
                 }
             }
         }
-
         return uf.count;
     }
-
 }
 
 class UnionFind{
@@ -51,8 +47,8 @@ class UnionFind{
         }else if(rank[xroot]>rank[yroot]){
             parent[yroot]=xroot;
         }else{
-            parent[yroot]=xroot;
-            rank[xroot]++;
+            parent[xroot]=yroot;
+            rank[yroot]++;
         }
         count--;
     }
