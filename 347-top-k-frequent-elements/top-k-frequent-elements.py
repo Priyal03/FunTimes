@@ -9,9 +9,10 @@ class Solution:
         sortedmap = sorted(map.items(), key=lambda items : items[1], reverse=True)
         res = []
 
-        for i,j in sortedmap:
+        for i in range(len(sortedmap)):
+        
             if k>0:
-                res.append(i)
+                res.append(sortedmap[i][0])
                 k-=1
 
         return res
