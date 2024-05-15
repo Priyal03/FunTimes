@@ -1,26 +1,24 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
-        res = []
+        res=[]
         nums.sort()
-
         for i in range(len(nums)):
-            if nums[i] > 0:
+            if nums[i]>0:
                 break
-
-            if i == 0 or nums[i - 1] != nums[i]:
-                seen = set()
-                j = i + 1
-                # starting from left side as we are looking for complement.
-                while j < len(nums):
-                    complement = -nums[i] - nums[j]
-
-                    if complement in seen:
-                        res.append([nums[i], nums[j], complement])
-
-                        while j + 1 < len(nums) and nums[j] == nums[j + 1]:
-                            j += 1
-
-                    seen.add(nums[j])
-                    j += 1
-
+            if i==0 or nums[i]!=nums[i-1]:
+                low, high = i+1, len(nums)-1
+                while low<high :
+                    sum=nums[low]+nums[high]+nums[i]
+                    if sum>0:
+                        high -= 1
+                    elif sum<0:
+                        low += 1
+                    else:
+                        res.append([nums[i],nums[low],nums[high]])
+                        while low<high and nums[low]==nums[low+1]:
+                            low+=1
+                        low +=1
+                        high -=1
+                        
+            
         return res
