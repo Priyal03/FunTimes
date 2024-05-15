@@ -15,9 +15,10 @@ class Solution:
                         low += 1
                     else:
                         res.append([nums[i],nums[low],nums[high]])
-                        low +=1
-                        high -=1
                         while low<high and nums[low]==nums[low+1]:
                             low+=1
+                        low +=1
+                        high -=1
+                        
             
         return res
