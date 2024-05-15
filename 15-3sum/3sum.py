@@ -4,8 +4,8 @@ class Solution:
         nums.sort()
 
         for i in range(len(nums)):
-            #if nums[i] > 0:
-            #    break
+            if nums[i] > 0:
+                break
 
             if i == 0 or nums[i - 1] != nums[i]:
                 seen = set()
