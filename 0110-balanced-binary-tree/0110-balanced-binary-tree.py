@@ -9,19 +9,11 @@ class Solution:
 
         if root is None:
             return True
-
-        diff = abs(self.height(root.left)-self.height(root.right))
-        if diff > 1:
-            return False
-        else:
-            return True and self.isBalanced(root.left) and self.isBalanced(root.right)
+        
+        return abs(self.height(root.left)-self.height(root.right))<2 and self.isBalanced(root.left) and self.isBalanced(root.right)
 
     def height(self, root:Optional[TreeNode]):
         if root is None:
             return -1
-        elif root.left and root.right is None:
-            return 1
-        else:
-            left = self.height(root.left)
-            right = self.height(root.right)
-            return max(left,right)+1
+        
+        return max(self.height(root.left),self.height(root.right))+1
