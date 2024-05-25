@@ -10,5 +10,5 @@ class Solution:
                 left+=1
             
             hashset.add(s[right])
-            ans = max(ans, len(hashset))
+            ans = max(ans, right-left+1)
         return ans 
