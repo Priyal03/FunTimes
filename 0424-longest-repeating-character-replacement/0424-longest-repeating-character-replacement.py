@@ -3,19 +3,19 @@ class Solution:
         longestString = 0
         start = 0
         freq = {}
-        maxlength = 0
+        mostFrequentLength = 0
 
         for end in range(len(s)):
 
             letter = s[end]
             freq[letter] = freq.get(letter, 0) + 1
-            maxlength = max(maxlength, freq[letter])
+            mostFrequentLength = max(mostFrequentLength, freq[letter])
 
             slidingWindow = end - start + 1
-            if slidingWindow - maxlength > k:
+            if slidingWindow > (k + mostFrequentLength):
                 freq[s[start]] -= 1
                 start += 1
-                
+
             longestString = end - start + 1
 
         return longestString
