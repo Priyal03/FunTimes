@@ -9,7 +9,7 @@ class Solution:
             return nums[0]
 
         while low < high:
-            midIndex = low + (high - low) // 2
+            midIndex = (high + low) // 2
             if nums[midIndex] < nums[high]:
                 high = midIndex
             else:
