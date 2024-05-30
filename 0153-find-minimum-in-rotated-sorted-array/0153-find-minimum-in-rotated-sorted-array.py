@@ -1,18 +1,22 @@
 class Solution:
-    def findMin(self, nums: List[int]) -> int:
-        low, high = 0, len(nums) - 1
+    def findMin(self, array: List[int]) -> int:
+        left=0
+        right = len(array)-1
 
-        if high == 0:
-            return nums[0]
+        if array[right]>array[0] or right==0:
+            return array[0]
 
-        if nums[0] < nums[high]:
-            return nums[0]
+        while left<right:
+            mid = (left+right)//2
 
-        while low < high:
-            midIndex = (high + low) // 2
-            if nums[midIndex] < nums[high]:
-                high = midIndex
+            if array[mid]>array[mid+1]:
+                return array[mid+1]
+
+            if array[mid-1]>array[mid]:
+                return array[mid]
+
+            if array[mid]>array[0]:
+                left=mid+1
             else:
-                low = midIndex + 1
+                right=mid-1
 
-        return nums[low]
