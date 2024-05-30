@@ -8,10 +8,10 @@ class Solution:
         dummy = ListNode(0)
         dummy.next = head
 
-        nDistancePointer = dummy
-        first = dummy
+        nDistancePointer = head
+        first = dummy ##if you do not use dummy, you will end up one node short of nth distance. 
 
-        for i in range(n+1):
+        for _ in range(n):
             nDistancePointer = nDistancePointer.next
 
         while nDistancePointer:
