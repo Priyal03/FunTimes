@@ -1,9 +1,6 @@
 class Solution:
-    def countComponents(self, n: int, edges: List[List[int]]) -> int:
-        # if len(edges) > (n - 1):
-        #     return 1
-        parent = [num for num in range(n)]
-        count = 0
+    def countComponents(self, count: int, edges: List[List[int]]) -> int:
+        parent = [num for num in range(count)]
 
         def findParent(x):
             # find the root parent
@@ -16,13 +13,11 @@ class Solution:
             parenty = findParent(y)
             if parentx != parenty:
                 parent[parenty] = parentx
+                return True
+            else:
+                return False
 
         for start, end in edges:
-            union(start, end)
-
-        # count number of roots
-        for i in range(n):
-            if i == parent[i]:
-                count += 1
-
+            if union(start, end):
+                count -= 1
         return count
