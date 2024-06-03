@@ -1,23 +1,22 @@
 class Solution:
-    def countComponents(self, count: int, edges: List[List[int]]) -> int:
-        parent = [num for num in range(count)]
+    def countComponents(self, n: int, edges: List[List[int]]) -> int:
+        adjmatrix = {node: [] for node in range(n)}
+        count = 0
+        for x, y in edges:
+            adjmatrix[x].append(y)
+            adjmatrix[y].append(x)
 
-        def findParent(x):
-            # find the root parent
-            while x != parent[x]:
-                x = parent[x]
-            return x
+        visited = set()
 
-        def union(x, y):
-            parentx = findParent(x)
-            parenty = findParent(y)
-            if parentx != parenty:
-                parent[parenty] = parentx
-                return True
-            else:
-                return False
+        def dfs(node):
+            visited.add(node)
+            for neighbor in adjmatrix[node]:
+                if neighbor not in visited:
+                    dfs(neighbor)
 
-        for start, end in edges:
-            if union(start, end):
-                count -= 1
+        for x in range(n):
+            if x not in visited:
+                dfs(x)
+                count += 1
+
         return count
