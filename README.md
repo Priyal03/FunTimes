@@ -8,6 +8,7 @@
 # Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FunTimes/tree/master/0210-course-schedule-ii) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 # Graph
@@ -26,3 +27,11 @@
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
+# Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
+# String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
