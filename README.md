@@ -22,6 +22,7 @@
 # Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
@@ -35,3 +36,11 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
