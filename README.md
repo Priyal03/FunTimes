@@ -25,6 +25,7 @@
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/Priyal03/FunTimes/tree/master/0134-gas-station) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
@@ -53,3 +54,4 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/Priyal03/FunTimes/tree/master/0134-gas-station) |
