@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Priyal03/FunTimes/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Priyal03/FunTimes/tree/master/0134-gas-station) |
@@ -85,3 +86,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
+# Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Priyal03/FunTimes/tree/master/0046-permutations) |
