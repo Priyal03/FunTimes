@@ -28,6 +28,7 @@
 | [0134-gas-station](https://github.com/Priyal03/FunTimes/tree/master/0134-gas-station) |
 | [0876-hand-of-straights](https://github.com/Priyal03/FunTimes/tree/master/0876-hand-of-straights) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Priyal03/FunTimes/tree/master/2026-merge-triplets-to-form-target-triplet) |
 # Matrix
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Priyal03/FunTimes/tree/master/0134-gas-station) |
 | [0876-hand-of-straights](https://github.com/Priyal03/FunTimes/tree/master/0876-hand-of-straights) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/Priyal03/FunTimes/tree/master/2026-merge-triplets-to-form-target-triplet) |
 # Sorting
 |  |
 | ------- |
