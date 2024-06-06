@@ -5,16 +5,19 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FunTimes/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FunTimes/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 # Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FunTimes/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 # Topological Sort
 |  |
 | ------- |
@@ -78,3 +81,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Priyal03/FunTimes/tree/master/0678-valid-parenthesis-string) |
+# Union Find
+|  |
+| ------- |
+| [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
