@@ -25,6 +25,7 @@
 # Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/Priyal03/FunTimes/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Priyal03/FunTimes/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyal03/FunTimes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0040-combination-sum-ii](https://github.com/Priyal03/FunTimes/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Priyal03/FunTimes/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Priyal03/FunTimes/tree/master/0090-subsets-ii) |
 # Bit Manipulation
