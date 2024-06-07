@@ -65,6 +65,7 @@
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Priyal03/FunTimes/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Priyal03/FunTimes/tree/master/0678-valid-parenthesis-string) |
 # Greedy
@@ -110,8 +111,13 @@
 # Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0070-climbing-stairs) |
 | [1585-the-kth-factor-of-n](https://github.com/Priyal03/FunTimes/tree/master/1585-the-kth-factor-of-n) |
 # Number Theory
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/Priyal03/FunTimes/tree/master/1585-the-kth-factor-of-n) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0070-climbing-stairs) |
