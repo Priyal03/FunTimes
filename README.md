@@ -103,3 +103,11 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Priyal03/FunTimes/tree/master/0090-subsets-ii) |
+# Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Priyal03/FunTimes/tree/master/1585-the-kth-factor-of-n) |
+# Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/Priyal03/FunTimes/tree/master/1585-the-kth-factor-of-n) |
