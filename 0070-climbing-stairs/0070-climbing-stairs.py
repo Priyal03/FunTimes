@@ -1,19 +1,14 @@
 class Solution:
-
     def climbStairs(self, n: int) -> int:
-        memo=[0]*(n+1)
-        return self.climb(0, n, memo)
-
-    def climb(self, steps, n, memo) -> int:
-
-        if steps == n:
+        if n==1:
             return 1
-        elif steps > n:
-            return 0
+            
+        dp = [0]*(n+1)
 
-        if memo[steps]>0:
-            return memo[steps]
-        
-        memo[steps]=self.climb(steps + 1, n, memo) + self.climb(steps + 2, n, memo)
+        dp[1]=1
+        dp[2]=2
 
-        return memo[steps]
+        for i in range(3,n+1):
+            dp[i]=dp[i-1]+dp[i-2]
+
+        return dp[n]
