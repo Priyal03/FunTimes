@@ -4,7 +4,7 @@ class Codec:
         """
         encoded = ''
         for s in strs:
-            encoded += str(len(s))+'/;'+s
+            encoded += str(len(s))+';'+s
         return encoded
 
     def decode(self, s: str) -> List[str]:
@@ -12,10 +12,11 @@ class Codec:
         """
         decoded = []
         i=0
+        print(s)
         while i < (len(s)):
-            start = s.find('/;',i)
+            start = s.find(';',i)
             length = int(s[i:start])
-            start+=2
+            start+=1
             end = start+length
             curr = s[start:end]
             decoded.append(curr)
