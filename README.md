@@ -27,6 +27,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Priyal03/FunTimes/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Priyal03/FunTimes/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Priyal03/FunTimes/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
@@ -64,6 +65,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
@@ -89,10 +91,12 @@
 # Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0768-partition-labels](https://github.com/Priyal03/FunTimes/tree/master/0768-partition-labels) |
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Priyal03/FunTimes/tree/master/0678-valid-parenthesis-string) |
 # Union Find
 |  |
@@ -127,3 +131,7 @@
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/Priyal03/FunTimes/tree/master/0271-encode-and-decode-strings) |
+# Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
