@@ -11,3 +11,4 @@ class Solution:
             twoStepLast = temp
 
         return lastElement
+#slicing the substring every time is more costlier than using a range from 1 to n.
