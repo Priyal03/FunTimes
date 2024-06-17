@@ -4,10 +4,10 @@ class Solution:
         twoStepLast = 0
         lastElement = nums[0]
 
-        for curr in nums[1:]:
+        for i in range(1,len(nums)):
 
             temp = lastElement
-            lastElement = max(curr + twoStepLast, lastElement)
+            lastElement = max(nums[i] + twoStepLast, lastElement)
             twoStepLast = temp
 
         return lastElement
