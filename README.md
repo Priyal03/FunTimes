@@ -56,6 +56,7 @@
 # String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyal03/FunTimes/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyal03/FunTimes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
 | [0271-encode-and-decode-strings](https://github.com/Priyal03/FunTimes/tree/master/0271-encode-and-decode-strings) |
@@ -68,6 +69,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyal03/FunTimes/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
@@ -97,6 +99,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyal03/FunTimes/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0768-partition-labels](https://github.com/Priyal03/FunTimes/tree/master/0768-partition-labels) |
 # Stack
