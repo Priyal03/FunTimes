@@ -58,6 +58,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyal03/FunTimes/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyal03/FunTimes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0091-decode-ways](https://github.com/Priyal03/FunTimes/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
 | [0271-encode-and-decode-strings](https://github.com/Priyal03/FunTimes/tree/master/0271-encode-and-decode-strings) |
 | [0647-palindromic-substrings](https://github.com/Priyal03/FunTimes/tree/master/0647-palindromic-substrings) |
@@ -76,6 +77,7 @@
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Priyal03/FunTimes/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Priyal03/FunTimes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyal03/FunTimes/tree/master/0213-house-robber-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Priyal03/FunTimes/tree/master/0435-non-overlapping-intervals) |
