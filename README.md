@@ -42,6 +42,7 @@
 | [0271-encode-and-decode-strings](https://github.com/Priyal03/FunTimes/tree/master/0271-encode-and-decode-strings) |
 | [0300-longest-increasing-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Priyal03/FunTimes/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Priyal03/FunTimes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Priyal03/FunTimes/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/Priyal03/FunTimes/tree/master/0876-hand-of-straights) |
@@ -91,6 +92,7 @@
 | [0213-house-robber-ii](https://github.com/Priyal03/FunTimes/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Priyal03/FunTimes/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Priyal03/FunTimes/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Priyal03/FunTimes/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Priyal03/FunTimes/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Priyal03/FunTimes/tree/master/0678-valid-parenthesis-string) |
