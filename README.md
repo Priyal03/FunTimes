@@ -40,6 +40,7 @@
 | [0198-house-robber](https://github.com/Priyal03/FunTimes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyal03/FunTimes/tree/master/0213-house-robber-ii) |
 | [0271-encode-and-decode-strings](https://github.com/Priyal03/FunTimes/tree/master/0271-encode-and-decode-strings) |
+| [0300-longest-increasing-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Priyal03/FunTimes/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Priyal03/FunTimes/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0747-min-cost-climbing-stairs) |
@@ -88,6 +89,7 @@
 | [0152-maximum-product-subarray](https://github.com/Priyal03/FunTimes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Priyal03/FunTimes/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyal03/FunTimes/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Priyal03/FunTimes/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Priyal03/FunTimes/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Priyal03/FunTimes/tree/master/0647-palindromic-substrings) |
@@ -163,3 +165,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Priyal03/FunTimes/tree/master/0139-word-break) |
+# Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0300-longest-increasing-subsequence) |
