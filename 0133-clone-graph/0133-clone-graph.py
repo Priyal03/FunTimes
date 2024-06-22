@@ -7,21 +7,21 @@ class Node:
 """
 
 from typing import Optional
+
+
 class Solution:
-    def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        nodemap={}
+    nodemap = {}
 
-        def myCloneFunc(node):
-            if not node:
-                return
-            if node in nodemap:
-                return nodemap[node]
-            
-            current = Node(node.val)
-            nodemap[node]=current
-            for x in node.neighbors:
-                current.neighbors.append(myCloneFunc(x))
+    def cloneGraph(self, node: Optional["Node"]) -> Optional["Node"]:
 
-            return current
+        if not node:
+            return
+        if node in self.nodemap:
+            return self.nodemap[node]
 
-        return myCloneFunc(node)
+        clonedNode = Node(node.val)
+        self.nodemap[node] = clonedNode
+        for x in node.neighbors:
+            clonedNode.neighbors.append(self.cloneGraph(x))
+
+        return clonedNode
