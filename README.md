@@ -37,6 +37,7 @@
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/Priyal03/FunTimes/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyal03/FunTimes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Priyal03/FunTimes/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Priyal03/FunTimes/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Priyal03/FunTimes/tree/master/0152-maximum-product-subarray) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyal03/FunTimes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyal03/FunTimes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Priyal03/FunTimes/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Priyal03/FunTimes/tree/master/0139-word-break) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyal03/FunTimes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -175,3 +178,11 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0300-longest-increasing-subsequence) |
+# Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyal03/FunTimes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyal03/FunTimes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
