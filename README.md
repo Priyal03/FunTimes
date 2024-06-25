@@ -64,6 +64,7 @@
 | [0127-word-ladder](https://github.com/Priyal03/FunTimes/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Priyal03/FunTimes/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Priyal03/FunTimes/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 | [0768-partition-labels](https://github.com/Priyal03/FunTimes/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Priyal03/FunTimes/tree/master/0876-hand-of-straights) |
 # String
@@ -165,6 +166,7 @@
 # Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/Priyal03/FunTimes/tree/master/0271-encode-and-decode-strings) |
 # Monotonic Stack
 |  |
@@ -186,3 +188,11 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyal03/FunTimes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
+# Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
