@@ -94,6 +94,7 @@
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Priyal03/FunTimes/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Priyal03/FunTimes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Priyal03/FunTimes/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/Priyal03/FunTimes/tree/master/0139-word-break) |
@@ -155,6 +156,7 @@
 # Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Priyal03/FunTimes/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0070-climbing-stairs) |
 | [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/Priyal03/FunTimes/tree/master/1585-the-kth-factor-of-n) |
@@ -212,3 +214,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
+# Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Priyal03/FunTimes/tree/master/0062-unique-paths) |
