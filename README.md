@@ -50,6 +50,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Priyal03/FunTimes/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0747-min-cost-climbing-stairs) |
 | [0876-hand-of-straights](https://github.com/Priyal03/FunTimes/tree/master/0876-hand-of-straights) |
+| [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/Priyal03/FunTimes/tree/master/2026-merge-triplets-to-form-target-triplet) |
 # Matrix
@@ -84,6 +85,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Priyal03/FunTimes/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Priyal03/FunTimes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Priyal03/FunTimes/tree/master/0435-non-overlapping-intervals) |
 | [0876-hand-of-straights](https://github.com/Priyal03/FunTimes/tree/master/0876-hand-of-straights) |
+| [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
 # Two Pointers
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0070-climbing-stairs) |
+| [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
 | [1585-the-kth-factor-of-n](https://github.com/Priyal03/FunTimes/tree/master/1585-the-kth-factor-of-n) |
 # Number Theory
 |  |
@@ -196,3 +200,15 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
+# Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
+# Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Priyal03/FunTimes/tree/master/1014-k-closest-points-to-origin) |
