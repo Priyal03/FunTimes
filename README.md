@@ -80,6 +80,7 @@
 | [0647-palindromic-substrings](https://github.com/Priyal03/FunTimes/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Priyal03/FunTimes/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/Priyal03/FunTimes/tree/master/0768-partition-labels) |
+| [1250-longest-common-subsequence](https://github.com/Priyal03/FunTimes/tree/master/1250-longest-common-subsequence) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [0647-palindromic-substrings](https://github.com/Priyal03/FunTimes/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Priyal03/FunTimes/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Priyal03/FunTimes/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/Priyal03/FunTimes/tree/master/1250-longest-common-subsequence) |
 # Greedy
 |  |
 | ------- |
