@@ -240,4 +240,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Priyal03/FunTimes/tree/master/0207-course-schedule) |
+## Array
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
