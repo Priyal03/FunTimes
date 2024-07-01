@@ -229,16 +229,19 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Priyal03/FunTimes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FunTimes/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Priyal03/FunTimes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FunTimes/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 ## Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Priyal03/FunTimes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Priyal03/FunTimes/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 ## Topological Sort
 |  |
 | ------- |
@@ -247,9 +250,22 @@
 ## Array
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
+## String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
+## Union Find
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
