@@ -232,6 +232,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Priyal03/FunTimes/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Priyal03/FunTimes/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
@@ -241,6 +242,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Priyal03/FunTimes/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Priyal03/FunTimes/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 ## Graph
@@ -251,6 +253,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Priyal03/FunTimes/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Priyal03/FunTimes/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 | [1916-find-center-of-star-graph](https://github.com/Priyal03/FunTimes/tree/master/1916-find-center-of-star-graph) |
 ## Topological Sort
 |  |
@@ -278,6 +281,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Priyal03/FunTimes/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Priyal03/FunTimes/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 ## Shortest Path
 |  |
 | ------- |
