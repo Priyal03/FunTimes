@@ -1,19 +1,30 @@
 class Solution:
+    class UnionFind:
+        def __init__(self, n):
+            self.parent = list(range(n))
+
+        def union(self, x, y):
+            rootx = self.find(x)
+            rooty = self.find(y)
+            if rootx != rooty:
+                self.parent[rootx] = rooty
+
+        def find(self, x):
+            if self.parent[x] != x:
+                self.parent[x] = self.find(self.parent[x])
+            return self.parent[x]
+
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        cities = len(isConnected)
-        visited = set()
+        n = len(isConnected)
+        uf = self.UnionFind(n + 1)
 
-        def dfs(city):
-            visited.add(city)
-            
-            for c, connection in enumerate(isConnected[city]):
-                if connection == 1 and c not in visited:
-                    dfs(c)
+        for i in range(n):
+            for j in range(n):
+                if isConnected[i][j] == 1:
+                    uf.union(i, j)
 
-        provinces = 0
-        for c in range(cities):
-            if c not in visited:
-                dfs(c)
-                provinces += 1
+        parents = set()
+        for x in range(len(isConnected)):
+            parents.add(uf.find(x))
 
-        return provinces
+        return len(parents)
