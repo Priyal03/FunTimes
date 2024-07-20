@@ -283,6 +283,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
@@ -332,11 +333,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 ## Tree
 |  |
