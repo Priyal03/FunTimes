@@ -273,6 +273,7 @@
 | [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
+| [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Priyal03/FunTimes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1916-find-center-of-star-graph](https://github.com/Priyal03/FunTimes/tree/master/1916-find-center-of-star-graph) |
 ## Topological Sort
@@ -294,6 +295,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 ## Dynamic Programming
@@ -343,6 +345,7 @@
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
+| [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
