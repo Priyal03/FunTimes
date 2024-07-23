@@ -243,6 +243,7 @@
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Priyal03/FunTimes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Priyal03/FunTimes/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Priyal03/FunTimes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Priyal03/FunTimes/tree/master/1492-time-needed-to-inform-all-employees) |
+| [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
+| [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -324,6 +327,7 @@
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Priyal03/FunTimes/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 ## Shortest Path
 |  |
 | ------- |
@@ -338,6 +342,7 @@
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
+| [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 ## Hash Table
 |  |
 | ------- |
