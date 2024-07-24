@@ -244,6 +244,7 @@
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Priyal03/FunTimes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Priyal03/FunTimes/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Priyal03/FunTimes/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 ## Breadth-First Search
 |  |
@@ -265,6 +266,7 @@
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Priyal03/FunTimes/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Priyal03/FunTimes/tree/master/1492-time-needed-to-inform-all-employees) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Priyal03/FunTimes/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
@@ -279,6 +281,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Priyal03/FunTimes/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Priyal03/FunTimes/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1916-find-center-of-star-graph](https://github.com/Priyal03/FunTimes/tree/master/1916-find-center-of-star-graph) |
 ## Topological Sort
 |  |
