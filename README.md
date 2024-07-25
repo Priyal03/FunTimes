@@ -239,6 +239,7 @@
 | [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Priyal03/FunTimes/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
@@ -261,6 +262,7 @@
 | [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/Priyal03/FunTimes/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
@@ -277,6 +279,7 @@
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Priyal03/FunTimes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Priyal03/FunTimes/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
@@ -328,6 +331,7 @@
 | [0547-number-of-provinces](https://github.com/Priyal03/FunTimes/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Priyal03/FunTimes/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
+| [0801-is-graph-bipartite](https://github.com/Priyal03/FunTimes/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
