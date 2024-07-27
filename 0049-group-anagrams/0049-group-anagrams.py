@@ -7,4 +7,4 @@ class Solution:
             for i in word:
                 count[ord(i)-ord('a')]+=1
             anagramStore[tuple(count)].append(word)
-        return list(anagramStore.values())
+        return anagramStore.values()
