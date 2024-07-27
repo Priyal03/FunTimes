@@ -6,5 +6,5 @@ class Solution:
             count=[0]*26
             for i in word:
                 count[ord(i)-ord('a')]+=1
-            anagramStore[tuple(count)].append(word)
+            anagramStore[str(count)].append(word)
         return anagramStore.values()
