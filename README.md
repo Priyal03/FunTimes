@@ -295,6 +295,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
@@ -317,6 +318,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
 ## String
 |  |
@@ -406,4 +408,16 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyal03/FunTimes/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
