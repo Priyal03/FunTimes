@@ -1,23 +1,25 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        n=9
-        rowset = [[0]*n for _ in range(9)]
-        colset = [[0]*n for _ in range(9)]
-        boxes = [[0]*n for _ in range(9)]
-        for row in range(9):
-            for col in range(9):
-                if board[row][col]!=".":
-                    id = int(board[row][col])-1
-                    if rowset[row][id] == 1:
-                        return False
-                    rowset[row][id]=1
-                    if colset[col][id]==1:
-                        return False
-                    colset[col][id]=1
+        row = [0]*9
+        col = [0]*9
+        box = [0]*9
 
-                    index = (row//3)*3+(col//3)
-                    if boxes[index][id]==1:
-                        return False
-                    boxes[index][id]=1
+        for i in range(9):
+            for j in range(9):
+                
+                num = board[i][j]
+                if num=='.':
+                    continue
+                
+                num=int(num)-1
+                boxIndex = i//3 + (j//3)*3
+                bit = 1<<num
+                
+                if row[i] & bit or col[j] & bit or box[boxIndex]&bit:
+                    return False
+
+                row[i] |= bit
+                col[j]|=bit
+                box[boxIndex]|=bit
 
         return True
