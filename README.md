@@ -308,6 +308,7 @@
 | [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
@@ -419,10 +420,12 @@
 | [0020-valid-parentheses](https://github.com/Priyal03/FunTimes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Priyal03/FunTimes/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
