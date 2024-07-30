@@ -294,6 +294,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
@@ -349,6 +350,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Priyal03/FunTimes/tree/master/0417-pacific-atlantic-water-flow) |
@@ -361,6 +363,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
