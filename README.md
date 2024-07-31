@@ -309,6 +309,7 @@
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Priyal03/FunTimes/tree/master/0792-binary-search) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
@@ -430,4 +431,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Priyal03/FunTimes/tree/master/0155-min-stack) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Priyal03/FunTimes/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
