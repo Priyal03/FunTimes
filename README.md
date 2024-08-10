@@ -298,6 +298,7 @@
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Priyal03/FunTimes/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Priyal03/FunTimes/tree/master/0238-product-of-array-except-self) |
@@ -440,4 +441,8 @@
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Priyal03/FunTimes/tree/master/0792-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Priyal03/FunTimes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
