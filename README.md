@@ -320,6 +320,7 @@
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
+| [2058-concatenation-of-array](https://github.com/Priyal03/FunTimes/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -460,4 +461,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Priyal03/FunTimes/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
