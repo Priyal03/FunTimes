@@ -324,6 +324,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
+| [0338-counting-bits](https://github.com/Priyal03/FunTimes/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
 ## String
 |  |
@@ -450,6 +451,7 @@
 | [0191-number-of-1-bits](https://github.com/Priyal03/FunTimes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Priyal03/FunTimes/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Priyal03/FunTimes/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
