@@ -318,6 +318,7 @@
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyal03/FunTimes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/Priyal03/FunTimes/tree/master/2058-concatenation-of-array) |
