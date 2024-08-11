@@ -5,7 +5,9 @@ class Solution:
 
         if slen==0:
             return True
-            
+        if tlen<slen:
+            return False
+
         dp=[[0]*(tlen+1)for _ in range(slen+1)]
 
         for col in range(1,tlen+1):
