@@ -395,6 +395,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Priyal03/FunTimes/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -446,6 +447,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Priyal03/FunTimes/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/Priyal03/FunTimes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Priyal03/FunTimes/tree/master/0260-single-number-iii) |
 ## Math
