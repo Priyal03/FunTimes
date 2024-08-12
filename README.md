@@ -333,6 +333,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Priyal03/FunTimes/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Priyal03/FunTimes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyal03/FunTimes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Priyal03/FunTimes/tree/master/0058-length-of-last-word) |
@@ -470,4 +471,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Priyal03/FunTimes/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Priyal03/FunTimes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
