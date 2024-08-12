@@ -2,14 +2,11 @@ class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if not strs:
             return ""
-        prefix=strs[0]
-        for i in range(1,len(strs)):
+        
+        for i in range(len(strs[0])):
+            c=strs[0][i]
+            for j in range(1,len(strs)):
+                if i==len(strs[j]) or strs[j][i]!=c:
+                    return strs[0][:i]
             
-            while strs[i].find(prefix) !=0:
-                
-                prefix=prefix[:len(prefix)-1]
-                if not prefix:
-                    return ""
-
-            #print(strs[i].find(prefix))
-        return prefix
+        return strs[0]
