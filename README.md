@@ -294,6 +294,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Priyal03/FunTimes/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
@@ -429,6 +430,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Priyal03/FunTimes/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
 ## Stack
