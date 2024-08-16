@@ -315,6 +315,7 @@
 | [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Priyal03/FunTimes/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Priyal03/FunTimes/tree/master/0883-car-fleet) |
+| [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
@@ -343,6 +344,7 @@
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
+| [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 ## Union Find
@@ -387,6 +389,7 @@
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
+| [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
