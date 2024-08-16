@@ -341,6 +341,7 @@
 | [0020-valid-parentheses](https://github.com/Priyal03/FunTimes/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Priyal03/FunTimes/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/Priyal03/FunTimes/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
@@ -386,6 +387,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/Priyal03/FunTimes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
