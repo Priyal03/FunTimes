@@ -12,4 +12,4 @@ class Solution:
                 return False
             tmap[t[i]]=s[i]
         
-        return True #len(mapping)==len(tmap)
+        return len(mapping)==len(tmap)
