@@ -4,13 +4,16 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         zero=0
-        
-        for i in range(len(nums)):
+        two = len(nums)-1
+        i=0
+        while i<= two:
+
             if nums[i]==0:
                 nums[zero],nums[i]=nums[i],nums[zero]
                 zero+=1
-                
-        for i in range(len(nums)):
-            if nums[i]==1:
-                nums[zero],nums[i]=nums[i],nums[zero]
-                zero+=1
+                i+=1
+            elif nums[i]==2:
+                nums[two],nums[i]=nums[i],nums[two]
+                two-=1
+            else:
+                i+=1
