@@ -330,6 +330,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
+| [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Priyal03/FunTimes/tree/master/0118-pascals-triangle) |
 | [0338-counting-bits](https://github.com/Priyal03/FunTimes/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
@@ -411,6 +412,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Priyal03/FunTimes/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Divide and Conquer
 |  |
@@ -478,6 +480,7 @@
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -503,4 +506,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FunTimes/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
