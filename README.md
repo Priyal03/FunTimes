@@ -337,6 +337,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FunTimes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Priyal03/FunTimes/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Priyal03/FunTimes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyal03/FunTimes/tree/master/0020-valid-parentheses) |
@@ -386,6 +387,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FunTimes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
@@ -497,4 +499,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FunTimes/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
