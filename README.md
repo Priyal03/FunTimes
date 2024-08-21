@@ -388,6 +388,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Priyal03/FunTimes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
@@ -458,6 +459,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Priyal03/FunTimes/tree/master/0155-min-stack) |
 ## Binary Search
 |  |
@@ -487,4 +489,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyal03/FunTimes/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
