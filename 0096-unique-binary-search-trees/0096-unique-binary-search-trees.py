@@ -1,10 +1,12 @@
 class Solution:
     def numTrees(self, n: int) -> int:
         
-        catalanNumber = 1
-        # formula --- 2(2n)*prev/(n+2)
+        uniqueBST=[0]*(n+1)
+        uniqueBST[0]=1
+        uniqueBST[1]=1
 
-        for i in range(n):
-            catalanNumber = (2 * (i * 2 + 1)) * catalanNumber / (i + 2)
+        for i in range(2,n+1):
+            for j in range(1,i+1):
+                uniqueBST[i]+=uniqueBST[j-1]*uniqueBST[i-j]
 
-        return int(catalanNumber)
+        return uniqueBST[n]
