@@ -330,6 +330,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyal03/FunTimes/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Priyal03/FunTimes/tree/master/0118-pascals-triangle) |
@@ -340,6 +341,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FunTimes/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Priyal03/FunTimes/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Priyal03/FunTimes/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Priyal03/FunTimes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Priyal03/FunTimes/tree/master/0020-valid-parentheses) |
@@ -444,6 +446,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Priyal03/FunTimes/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/Priyal03/FunTimes/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
