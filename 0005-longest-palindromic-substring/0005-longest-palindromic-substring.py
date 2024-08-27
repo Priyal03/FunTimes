@@ -1,17 +1,23 @@
 class Solution:
-    longest=""
-    def isPalindrome(self, s, start, end) -> str:
-        while start>=0 and end<len(s) and s[start]==s[end]:
-            start-=1
-            end+=1
-        return s[start+1:end]
-
     def longestPalindrome(self, s: str) -> str:
-        for i in range(len(s)):
-            curr = self.isPalindrome(s,i,i)
-            if len(curr)>len(self.longest):
-                self.longest=curr
-            curr = self.isPalindrome(s,i,i+1)
-            if len(curr)>len(self.longest):
-                self.longest=curr
-        return self.longest
+        n=len(s)
+        dp=[[False]*n for _ in range(n)]
+        ans=[0,0]
+
+        for i in range(n):
+            dp[i][i]=True
+
+        for i in range(1,n):
+            if s[i]==s[i-1]:
+                dp[i-1][i]=True
+                ans=[i-1,i]
+
+        for length in range(2,n):
+            for start in range(n-length):
+                end = start+length
+                if s[start]==s[end] and dp[start+1][end-1]:
+                    dp[start][end]=True
+                    ans=[start,end]
+        
+        i,j=ans
+        return s[i:j+1]
