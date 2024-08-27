@@ -302,6 +302,7 @@
 | [0056-merge-intervals](https://github.com/Priyal03/FunTimes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Priyal03/FunTimes/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyal03/FunTimes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Priyal03/FunTimes/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
@@ -359,6 +360,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Priyal03/FunTimes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/Priyal03/FunTimes/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
@@ -397,6 +399,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyal03/FunTimes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Priyal03/FunTimes/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Priyal03/FunTimes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
