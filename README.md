@@ -308,6 +308,7 @@
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Priyal03/FunTimes/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0260-single-number-iii](https://github.com/Priyal03/FunTimes/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
@@ -416,6 +417,7 @@
 | [0056-merge-intervals](https://github.com/Priyal03/FunTimes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
+| [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0883-car-fleet](https://github.com/Priyal03/FunTimes/tree/master/0883-car-fleet) |
@@ -432,6 +434,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -449,6 +452,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyal03/FunTimes/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -456,6 +460,7 @@
 | [0027-remove-element](https://github.com/Priyal03/FunTimes/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
+| [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -525,4 +530,8 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
+## Greedy
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
