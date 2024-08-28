@@ -311,6 +311,7 @@
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0260-single-number-iii](https://github.com/Priyal03/FunTimes/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Priyal03/FunTimes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Priyal03/FunTimes/tree/master/0463-island-perimeter) |
@@ -405,6 +406,7 @@
 | [0205-isomorphic-strings](https://github.com/Priyal03/FunTimes/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -481,6 +483,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Priyal03/FunTimes/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search
 |  |
 | ------- |
@@ -498,6 +501,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
@@ -534,4 +538,8 @@
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
