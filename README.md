@@ -318,6 +318,7 @@
 | [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/Priyal03/FunTimes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Priyal03/FunTimes/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Priyal03/FunTimes/tree/master/0883-car-fleet) |
@@ -470,6 +471,7 @@
 | [0020-valid-parentheses](https://github.com/Priyal03/FunTimes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Priyal03/FunTimes/tree/master/0155-min-stack) |
+| [0735-asteroid-collision](https://github.com/Priyal03/FunTimes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Priyal03/FunTimes/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -509,6 +511,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Priyal03/FunTimes/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/Priyal03/FunTimes/tree/master/2058-concatenation-of-array) |
 ## Trie
 |  |
