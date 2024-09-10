@@ -264,6 +264,7 @@
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Priyal03/FunTimes/tree/master/0801-is-graph-bipartite) |
+| [0945-snakes-and-ladders](https://github.com/Priyal03/FunTimes/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
@@ -325,6 +326,7 @@
 | [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Priyal03/FunTimes/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Priyal03/FunTimes/tree/master/0883-car-fleet) |
+| [0945-snakes-and-ladders](https://github.com/Priyal03/FunTimes/tree/master/0945-snakes-and-ladders) |
 | [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
@@ -396,6 +398,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Priyal03/FunTimes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Priyal03/FunTimes/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/Priyal03/FunTimes/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
