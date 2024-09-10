@@ -313,6 +313,7 @@
 | [0238-product-of-array-except-self](https://github.com/Priyal03/FunTimes/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0260-single-number-iii](https://github.com/Priyal03/FunTimes/tree/master/0260-single-number-iii) |
+| [0284-peeking-iterator](https://github.com/Priyal03/FunTimes/tree/master/0284-peeking-iterator) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
@@ -497,6 +498,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Priyal03/FunTimes/tree/master/0155-min-stack) |
+| [0284-peeking-iterator](https://github.com/Priyal03/FunTimes/tree/master/0284-peeking-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
 ## Binary Search
 |  |
@@ -557,4 +559,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Priyal03/FunTimes/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
