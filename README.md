@@ -337,6 +337,7 @@
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
 | [2035-count-sub-islands](https://github.com/Priyal03/FunTimes/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/Priyal03/FunTimes/tree/master/2058-concatenation-of-array) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Priyal03/FunTimes/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -366,6 +367,7 @@
 | [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Priyal03/FunTimes/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Union Find
 |  |
 | ------- |
@@ -421,6 +423,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Priyal03/FunTimes/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Sorting
 |  |
 | ------- |
@@ -455,6 +458,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
+| [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Priyal03/FunTimes/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Quickselect
 |  |
 | ------- |
