@@ -1,16 +1,14 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        left = 0
-        maxlen = 0
-        occur = {}
-
-        for i in range(len(s)):
-
-            if s[i] in occur:
-                left = max(occur[s[i]] + 1, left)
-
-            maxlen = max(maxlen, i - left + 1)
-
-            occur[s[i]] = i
-
-        return maxlen
+        chars=[None]*128
+        l=r=0
+        ans=0
+        while r<len(s):
+            right=s[r]
+            index=chars[ord(right)]
+            if index is not None and l<=index<r:
+                l=index+1
+            ans=max(ans,r-l+1)
+            chars[ord(right)]=r #key,value pair of ASCII value of 'a' and then last occured index pos of that in string.
+            r+=1
+        return ans
