@@ -300,6 +300,7 @@
 | [0027-remove-element](https://github.com/Priyal03/FunTimes/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Priyal03/FunTimes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
@@ -344,6 +345,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Priyal03/FunTimes/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Priyal03/FunTimes/tree/master/0118-pascals-triangle) |
 | [0221-maximal-square](https://github.com/Priyal03/FunTimes/tree/master/0221-maximal-square) |
@@ -558,6 +560,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 ## Randomized
 |  |
