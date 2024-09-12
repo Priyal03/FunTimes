@@ -364,6 +364,7 @@
 | [0205-isomorphic-strings](https://github.com/Priyal03/FunTimes/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
+| [0443-string-compression](https://github.com/Priyal03/FunTimes/tree/master/0443-string-compression) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
@@ -478,6 +479,7 @@
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Priyal03/FunTimes/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
