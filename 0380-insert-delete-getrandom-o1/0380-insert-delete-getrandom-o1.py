@@ -1,34 +1,35 @@
 class RandomizedSet:
-#take map to insert and delete in O(1) time but take array to get random in O(1) time as we can't use random lib for hashmap.
+
     def __init__(self):
-        self.random_map={}
-        self.array=[]
+        self.map={}
+        self.arr=[]
 
     def insert(self, val: int) -> bool:
-        if val in self.random_map:
+        if val in self.map:
             return False
 
-        self.array.append(val)
-        self.random_map[val]=len(self.array)-1
+        self.map[val]=len(self.arr)
+        self.arr.append(val)
         return True
 
     def remove(self, val: int) -> bool:
-        if val not in self.random_map:
+        if val not in self.map:
             return False
-        
-        index=self.random_map[val]
-        lastelement=self.array[-1]
 
-        self.array[index]=lastelement
-        self.random_map[lastelement]=index
+        index = self.map[val]
+        lastValue = self.arr[-1]
 
-        del self.random_map[val]
-        self.array.pop()
-        return True        
+        self.map[lastValue]=index
+        self.arr[index]=lastValue
+
+        del self.map[val]
+        self.arr.pop() #just purge it at the end.
+        return True
 
     def getRandom(self) -> int:
-        return random.choice(self.array)
-        
+        return random.choice(self.arr)
+
+
 # Your RandomizedSet object will be instantiated and called as such:
 # obj = RandomizedSet()
 # param_1 = obj.insert(val)
