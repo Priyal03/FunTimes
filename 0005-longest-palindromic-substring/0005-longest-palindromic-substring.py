@@ -15,6 +15,7 @@ class Solution:
         for length in range(2,n):
             for start in range(n-length):
                 end = start+length
+                #start to end are palindrome if start+1, end-1 are already palindrome.
                 if s[start]==s[end] and dp[start+1][end-1]:
                     dp[start][end]=True
                     ans=[start,end]
