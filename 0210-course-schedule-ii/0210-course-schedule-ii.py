@@ -1,21 +1,26 @@
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
-        adjList = [[] for _ in range(numCourses)]
-        dependencyList = [0]*numCourses
-        result = []
+        n=numCourses
+        dependents=[0]*(n)
+        prereqsTo=[[] for _ in range(n)]
+
         for course, prereq in prerequisites:
-            dependencyList[course]+=1
-            adjList[prereq].append(course)
+            dependents[course]+=1
+            prereqsTo[prereq].append(course)
+
         queue=deque()
-        for i in range(numCourses):
-            if dependencyList[i]==0:
+        ans=[]
+
+        for i in range(n):
+            if dependents[i]==0:
                 queue.append(i)
+                
         while queue:
-            node = queue.pop()
-            result.append(node)
-            for x in adjList[node]:
-                dependencyList[x]-=1
-                if dependencyList[x]==0:
-                    queue.append(x)
+            node = queue.popleft()
+            ans.append(node)
+            for curr in prereqsTo[node]:
+                dependents[curr]-=1
+                if dependents[curr]==0:
+                    queue.append(curr)
                     
-        return result if len(result)==numCourses else []
+        return ans if len(ans)==n else []
