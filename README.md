@@ -334,6 +334,7 @@
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/Priyal03/FunTimes/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Priyal03/FunTimes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1073-number-of-enclaves](https://github.com/Priyal03/FunTimes/tree/master/1073-number-of-enclaves) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Priyal03/FunTimes/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1380-number-of-closed-islands](https://github.com/Priyal03/FunTimes/tree/master/1380-number-of-closed-islands) |
@@ -428,6 +429,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Priyal03/FunTimes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Priyal03/FunTimes/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Sorting
 |  |
@@ -463,6 +465,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
+| [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Priyal03/FunTimes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Priyal03/FunTimes/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Quickselect
 |  |
