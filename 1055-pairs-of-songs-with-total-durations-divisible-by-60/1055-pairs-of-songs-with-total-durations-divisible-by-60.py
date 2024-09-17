@@ -1,21 +1,21 @@
 class Solution:
     def numPairsDivisibleBy60(self, time: List[int]) -> int:
-        n = len(time)
-        remainder_count = [0] * 60 # Array to store how many times each remainder (0 to 59) has appeared
+        
+        remainder_map = {} # Array to store how many times each remainder (0 to 59) has appeared
         count = 0
 
-        for i in range(n):
+        for tm in time:
 
-            remainder = time[i] % 60
+            remainder = tm % 60
 
-            if remainder == 0:
-                curr = 0
-            else:
-                curr = 60 - remainder # We want to find a complement remainder such that (remainder + complement) % 60 == 0
+            complement = (60-remainder)%60
+
+            if complement in remainder_map:
+                count += remainder_map[complement]
+
+            if remainder not in remainder_map:
+                remainder_map[remainder]=0
             
-
-            count += remainder_count[curr] #since we can only consider for i<j
-            
-            remainder_count[remainder] += 1 # the current song's remainder
+            remainder_map[remainder]+=1
 
         return count
