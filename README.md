@@ -322,6 +322,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Priyal03/FunTimes/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/Priyal03/FunTimes/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/Priyal03/FunTimes/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/Priyal03/FunTimes/tree/master/0525-contiguous-array) |
 | [0565-array-nesting](https://github.com/Priyal03/FunTimes/tree/master/0565-array-nesting) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Priyal03/FunTimes/tree/master/0733-flood-fill) |
@@ -425,6 +426,7 @@
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
+| [0525-contiguous-array](https://github.com/Priyal03/FunTimes/tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/Priyal03/FunTimes/tree/master/0721-accounts-merge) |
 | [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Priyal03/FunTimes/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -478,6 +480,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Priyal03/FunTimes/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
+| [0525-contiguous-array](https://github.com/Priyal03/FunTimes/tree/master/0525-contiguous-array) |
 ## Two Pointers
 |  |
 | ------- |
