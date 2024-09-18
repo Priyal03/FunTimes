@@ -3,8 +3,10 @@ class Solution:
         
         freq = Counter(words)
         
-        # sortedf = sorted(freq, key=freq.get, reverse=True)
+        arr = [(-count, word) for word,count in freq.items()]
+        # for word, count in freq.items():
+        #     heappush(arr, (-count, word))
+        
+        heapify(arr)
 
-        sortedf = sorted(freq.keys(), key=lambda x:(-freq[x],x))
-
-        return sortedf[:k]
+        return [heappop(arr)[1] for _ in range(k)]
