@@ -304,6 +304,7 @@
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Priyal03/FunTimes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Priyal03/FunTimes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Priyal03/FunTimes/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Priyal03/FunTimes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
@@ -437,6 +438,7 @@
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Priyal03/FunTimes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Priyal03/FunTimes/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Priyal03/FunTimes/tree/master/0217-contains-duplicate) |
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Priyal03/FunTimes/tree/master/0347-top-k-frequent-elements) |
@@ -483,6 +485,7 @@
 | [0027-remove-element](https://github.com/Priyal03/FunTimes/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Priyal03/FunTimes/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyal03/FunTimes/tree/master/0151-reverse-words-in-a-string) |
 | [0253-meeting-rooms-ii](https://github.com/Priyal03/FunTimes/tree/master/0253-meeting-rooms-ii) |
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
