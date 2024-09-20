@@ -370,6 +370,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Priyal03/FunTimes/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Priyal03/FunTimes/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Priyal03/FunTimes/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Priyal03/FunTimes/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Priyal03/FunTimes/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Priyal03/FunTimes/tree/master/0443-string-compression) |
 | [0692-top-k-frequent-words](https://github.com/Priyal03/FunTimes/tree/master/0692-top-k-frequent-words) |
@@ -507,6 +508,7 @@
 | [0020-valid-parentheses](https://github.com/Priyal03/FunTimes/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Priyal03/FunTimes/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Priyal03/FunTimes/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Priyal03/FunTimes/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Priyal03/FunTimes/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Priyal03/FunTimes/tree/master/0883-car-fleet) |
@@ -545,6 +547,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/Priyal03/FunTimes/tree/master/0394-decode-string) |
 ## Simulation
 |  |
 | ------- |
