@@ -540,12 +540,14 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyal03/FunTimes/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Priyal03/FunTimes/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyal03/FunTimes/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
 | [0394-decode-string](https://github.com/Priyal03/FunTimes/tree/master/0394-decode-string) |
 ## Simulation
@@ -561,6 +563,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Priyal03/FunTimes/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Priyal03/FunTimes/tree/master/0146-lru-cache) |
 ## Doubly-Linked List
 |  |
