@@ -16,10 +16,10 @@ class Solution:
             minute += 1
 
             for k in range(len(queue)):
-                i, j = queue.popleft()
+                i, j = queue.popleft() # i = row, j=col
 
-                for d in range(4):
-                    row, col = i + directions[d][0], j + directions[d][1]
+                for dx,dy in directions:
+                    row, col = i + dx, j + dy
                     if 0 <= row < n and 0 <= col < m:
                         if grid[row][col] == 1:
                             grid[row][col] = 2
