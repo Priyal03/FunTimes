@@ -299,6 +299,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Priyal03/FunTimes/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Priyal03/FunTimes/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Priyal03/FunTimes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Priyal03/FunTimes/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Priyal03/FunTimes/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Priyal03/FunTimes/tree/master/0045-jump-game-ii) |
@@ -528,6 +529,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Priyal03/FunTimes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Priyal03/FunTimes/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
