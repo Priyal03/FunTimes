@@ -380,6 +380,7 @@
 | [0965-unique-email-addresses](https://github.com/Priyal03/FunTimes/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Priyal03/FunTimes/tree/master/1032-satisfiability-of-equality-equations) |
+| [1526-html-entity-parser](https://github.com/Priyal03/FunTimes/tree/master/1526-html-entity-parser) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Priyal03/FunTimes/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Union Find
 |  |
@@ -439,6 +440,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/Priyal03/FunTimes/tree/master/0990-verifying-an-alien-dictionary) |
 | [1039-find-the-town-judge](https://github.com/Priyal03/FunTimes/tree/master/1039-find-the-town-judge) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/Priyal03/FunTimes/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
+| [1526-html-entity-parser](https://github.com/Priyal03/FunTimes/tree/master/1526-html-entity-parser) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Priyal03/FunTimes/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 ## Sorting
 |  |
