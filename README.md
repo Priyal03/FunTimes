@@ -307,6 +307,7 @@
 | [0049-group-anagrams](https://github.com/Priyal03/FunTimes/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Priyal03/FunTimes/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Priyal03/FunTimes/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Priyal03/FunTimes/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Priyal03/FunTimes/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Priyal03/FunTimes/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Priyal03/FunTimes/tree/master/0128-longest-consecutive-sequence) |
@@ -549,6 +550,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Priyal03/FunTimes/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Priyal03/FunTimes/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Priyal03/FunTimes/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Priyal03/FunTimes/tree/master/0231-power-of-two) |
@@ -618,6 +620,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Priyal03/FunTimes/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Priyal03/FunTimes/tree/master/0078-subsets) |
 ## Merge Sort
 |  |
 | ------- |
