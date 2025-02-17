@@ -8,7 +8,7 @@ class Solution:
             if sum>target:
                 return
             if sum==target:
-                ans.append(sublist[:])
+                ans.append(sublist)
                 return
             
             for index in range(start, len(candidates)):
