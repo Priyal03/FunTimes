@@ -1,17 +1,24 @@
 class Solution:
+
     def isValid(self, s: str) -> bool:
+
         stack = []
-        for c in s:
-            if c == "[" or c == "(" or c == "{":
-                stack.append(c)
-            elif len(stack) == 0:
-                return False
+
+        mapping={"(":")","{":"}","[":"]"}
+
+        for chars in s:
+            
+            if chars in mapping:
+                stack.append(chars)
+            
             else:
-                popped = stack.pop()
-                if (
-                    (popped == "[" and c != "]")
-                    or (popped == "{" and c != "}")
-                    or (popped == "(" and c != ")")
-                ):
+                if not stack: #if stack is empty , then we do not have opening braces
                     return False
-        return len(stack) == 0
+
+                popped = stack.pop()
+
+                if mapping[popped] !=  chars: #if we can not find opening brace's pair in mapping to current element
+
+                    return False
+                
+        return not stack # if stack is empty then string is valid
