@@ -1,9 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack=[]
-        
-        for curr in s:
+
+        if len(s)%2==1:
+            return False
             
+        for curr in s:
+
             if curr=='[' or curr=='{' or curr=='(':
                 stack.append(curr)
 
