@@ -1,28 +1,24 @@
 class Solution:
-    #two step process 
-    # add extra ) when occurs and add extra ( after iterating.
-    # use set to keep O(1) complexity and prepare the resultant string.
     def minRemoveToMakeValid(self, s: str) -> str:
-        stack = []
-        indexToDelete = set()
-        ans = []
+        stack=[]
+        removalSet=set()
 
-        for i in range(len(s)):
-            if s[i].isalpha():
+        for i, curr in enumerate(s):
+            if curr.isalpha():
                 continue
-            elif s[i] == "(":
+            elif curr=='(':
                 stack.append(i)
-            elif s[i] == ")":
-                if stack:
-                    stack.pop()
-                else:
-                    indexToDelete.add(i)
+            elif not stack:
+                removalSet.add(i)
+            else:
+                stack.pop()
 
         while stack:
-            indexToDelete.add(stack.pop())
+            removalSet.add(stack.pop())
 
-        for i in range(len(s)):
-            if i not in indexToDelete:
-                ans.append(s[i])
-
-        return "".join(ans)
+        result=[]
+        for i,curr in enumerate(s):
+            if i not in removalSet:
+                result.append(curr)
+# The overall time complexity remains O(n + m), where n is the length of s and m is the number of elements in indexesToDelete. However, using a list and joining it at the end avoids the quadratic time complexity associated with string concatenation in a loop. #
+        return "".join(result)
