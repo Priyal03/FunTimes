@@ -227,6 +227,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Priyal03/FunTimes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Priyal03/FunTimes/tree/master/0207-course-schedule) |
@@ -252,6 +253,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Priyal03/FunTimes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Priyal03/FunTimes/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Priyal03/FunTimes/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Priyal03/FunTimes/tree/master/0207-course-schedule) |
@@ -467,6 +469,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Priyal03/FunTimes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyal03/FunTimes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/Priyal03/FunTimes/tree/master/1492-time-needed-to-inform-all-employees) |
 ## Divide and Conquer
@@ -602,6 +605,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Priyal03/FunTimes/tree/master/0096-unique-binary-search-trees) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Priyal03/FunTimes/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Priyal03/FunTimes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Greedy
 |  |
