@@ -6,17 +6,21 @@
 #         self.right = right
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
-        
-        if not root:
+        if root is None:
             return 0
 
-        leftDepth = self.minDepth(root.left) # goes until leaf node
-        rightDepth = self.minDepth(root.right)
+        queue = deque([(root,1)]) #we are counting node length in this problem rather than a depth.
 
-        if leftDepth==0:
-            return rightDepth+1
-        
-        if rightDepth==0:
-            return leftDepth+1
+        while queue:
 
-        return min(rightDepth, leftDepth)+1 #then calculate the minimum depth after callback.
+            currNode, depth = queue.popleft()
+
+            if currNode.left is None and currNode.right is None:
+                return depth # leaf node has no children.
+
+            #traverse when one of the child is present.
+            if currNode.left:
+                queue.append((currNode.left,depth+1))
+
+            if currNode.right:
+                queue.append((currNode.right,depth+1))
